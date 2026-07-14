@@ -1,0 +1,11 @@
+attack_cat,conteggio,percentuale
+Normal,48894,50.5
+Exploits,19360,20.0
+Fuzzers,14082,14.54
+Reconnaissance,6000,6.2
+DoS,3369,3.48
+Generic,1800,1.86
+Backdoor,1121,1.16
+Analysis,1119,1.16
+Shellcode,954,0.99
+Worms,123,0.13
