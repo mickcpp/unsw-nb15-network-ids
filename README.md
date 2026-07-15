@@ -5,12 +5,14 @@
 ## Badges
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebooks-F9AB00?logo=googlecolab&logoColor=white)
+[![Colab - EDA](https://img.shields.io/badge/Colab-EDA-F9AB00?logo=googlecolab)](https://github.com/mickcpp/unsw-nb15-network-ids/blob/main/notebook/01_eda_unsw_nb15.ipynb)
+[![Colab - Pre-processing](https://img.shields.io/badge/Colab-Preprocessing-F9AB00?logo=googlecolab)](https://github.com/mickcpp/unsw-nb15-network-ids/blob/main/notebook/02_preprocessing.ipynb)
+[![Colab - Modeling](https://img.shields.io/badge/Colab-modeling-F9AB00?logo=googlecolab)](https://github.com/mickcpp/unsw-nb15-network-ids/blob/main/notebook/03_modeling.ipynb)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Research-brightgreen)
-![License](https://img.shields.io/badge/License-Specify-lightgrey)
-![Status](https://img.shields.io/badge/Status-Research%20Project-orange)
 ![Maintained](https://img.shields.io/badge/Maintained-Yes-success)
+![Project](https://img.shields.io/badge/Academic-Project-purple)
+![Reproducibility](https://img.shields.io/badge/Reproducibility-Available-green)
 
 ---
 
