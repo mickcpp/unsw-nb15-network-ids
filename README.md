@@ -5,9 +5,9 @@
 ## Badges
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
-[![Colab - EDA](https://img.shields.io/badge/Colab-EDA-F9AB00?logo=googlecolab)](https://github.com/mickcpp/unsw-nb15-network-ids/blob/main/notebook/01_eda_unsw_nb15.ipynb)
-[![Colab - Pre-processing](https://img.shields.io/badge/Colab-Preprocessing-F9AB00?logo=googlecolab)](https://github.com/mickcpp/unsw-nb15-network-ids/blob/main/notebook/02_preprocessing.ipynb)
-[![Colab - Modeling](https://img.shields.io/badge/Colab-modeling-F9AB00?logo=googlecolab)](https://github.com/mickcpp/unsw-nb15-network-ids/blob/main/notebook/03_modeling.ipynb)
+[![Colab - EDA](https://img.shields.io/badge/Colab-EDA-F9AB00?logo=googlecolab)](https://colab.research.google.com/github/mickcpp/unsw-nb15-network-ids/blob/main/notebook/01_eda_unsw_nb15.ipynb)
+[![Colab - Pre-processing](https://img.shields.io/badge/Colab-Preprocessing-F9AB00?logo=googlecolab)](https://colab.research.google.com/github/mickcpp/unsw-nb15-network-ids/blob/main/notebook/02_preprocessing.ipynb)
+[![Colab - Modeling](https://img.shields.io/badge/Colab-modeling-F9AB00?logo=googlecolab)](https://colab.research.google.com/github/mickcpp/unsw-nb15-network-ids/blob/main/notebook/03_modeling.ipynb)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Research-brightgreen)
 ![Maintained](https://img.shields.io/badge/Maintained-Yes-success)
